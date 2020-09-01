@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fcf99c21675c9a152949dd93056f1f88",
+    "revision": "9298e863d1a712f5a81a59683ceb0bc8",
     "url": "/whack-a-mole/index.html"
   },
   {
-    "revision": "bcb2bb542a0f4d6fe0a4",
-    "url": "/whack-a-mole/static/css/main.9fb4acdf.chunk.css"
+    "revision": "d8a6546a4aebe9dba6eb",
+    "url": "/whack-a-mole/static/css/main.e2a80ceb.chunk.css"
   },
   {
     "revision": "738d5347ff8c2e9dc0c0",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/whack-a-mole/static/js/2.4ab19517.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bcb2bb542a0f4d6fe0a4",
+    "revision": "d8a6546a4aebe9dba6eb",
     "url": "/whack-a-mole/static/js/main.8823e296.chunk.js"
   },
   {

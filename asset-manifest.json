@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/whack-a-mole/static/css/main.9fb4acdf.chunk.css",
+    "main.css": "/whack-a-mole/static/css/main.e2a80ceb.chunk.css",
     "main.js": "/whack-a-mole/static/js/main.8823e296.chunk.js",
     "main.js.map": "/whack-a-mole/static/js/main.8823e296.chunk.js.map",
     "runtime-main.js": "/whack-a-mole/static/js/runtime-main.6c374291.js",
@@ -8,15 +8,15 @@
     "static/js/2.4ab19517.chunk.js": "/whack-a-mole/static/js/2.4ab19517.chunk.js",
     "static/js/2.4ab19517.chunk.js.map": "/whack-a-mole/static/js/2.4ab19517.chunk.js.map",
     "index.html": "/whack-a-mole/index.html",
-    "precache-manifest.72aa56c6c5c70e58897de350b6b3d36d.js": "/whack-a-mole/precache-manifest.72aa56c6c5c70e58897de350b6b3d36d.js",
+    "precache-manifest.f8ed8a6c3f0259a42f2c3907afe25e41.js": "/whack-a-mole/precache-manifest.f8ed8a6c3f0259a42f2c3907afe25e41.js",
     "service-worker.js": "/whack-a-mole/service-worker.js",
-    "static/css/main.9fb4acdf.chunk.css.map": "/whack-a-mole/static/css/main.9fb4acdf.chunk.css.map",
+    "static/css/main.e2a80ceb.chunk.css.map": "/whack-a-mole/static/css/main.e2a80ceb.chunk.css.map",
     "static/js/2.4ab19517.chunk.js.LICENSE.txt": "/whack-a-mole/static/js/2.4ab19517.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6c374291.js",
     "static/js/2.4ab19517.chunk.js",
-    "static/css/main.9fb4acdf.chunk.css",
+    "static/css/main.e2a80ceb.chunk.css",
     "static/js/main.8823e296.chunk.js"
   ]
 }
