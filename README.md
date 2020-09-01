@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Whacl-A-Mole
 
-## Available Scripts
+Preview: https://dvmmy.github.io/whack-a-mole/
 
 In the project directory, you can run:
 
